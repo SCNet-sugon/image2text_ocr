@@ -1,7 +1,7 @@
 ---
 name: image2text_ocr
 description: 将图片中的文字信息识别并提取出来。本技能应在用户需要 OCR 识别图片中的文字时使用。
-version: 1.0.2
+version: 1.0.4
 author: SCNet
 license: MIT
 tags:
